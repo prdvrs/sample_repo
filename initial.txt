@@ -1,3 +1,5 @@
 my first commit
 
 Records not showing on home screen under team logos
+
+3rd
